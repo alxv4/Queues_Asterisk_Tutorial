@@ -14,9 +14,7 @@ de su elección marcará el botón 1 o 2 para luego serle asignado a alguna cola
 
 cola VIP y la dos a la CLÁSICA.
 
-En el archivo queues.conf ...
-
-Existe un comando ...
+En el archivo queues.conf existe un comando ...
 
 => ringinuse=no
 
