@@ -21,11 +21,6 @@ Si deseas generarcon IA tus audios para usarlas en tu IVR puedes usar el siguien
 Cuando descargues el archivo verás que se guarda en formato .mp3, hasta donde sé debes guardarlo en formato .wav
 entonces este link te puede servir ...
 => https://cloudconvert.com/
-... Los parámetros que yo uso son:
-Audio Codec: por defecto (pcm_s16le)
-Audio Bitrate: 64
-Channels: mono
-Volumne: no change
-Sample Rate: 8000 Hz
+... Los parámetros que yo uso son:                                                                                                                                                                              Audio Codec: por defecto (pcm_s16le)                                                                                                                                                                                 Audio Bitrate: 64                                                                                                                                                                                            Channels: mono                                                                                                                                                                                                      Volumne: no change                                                                                                                                                                                                   Sample Rate: 8000 Hz
 
 
