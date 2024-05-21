@@ -17,17 +17,26 @@ cola VIP y la dos a la CLÁSICA.
 En el archivo queues.conf ...
 
 Existe un comando ...
+
 => ringinuse=no
+
 ... que evita el timbrado en algún teléfono que esté ocupado en una llamada dentro de cualquier cola.
 
+
 /EXTRA/
+
 Si deseas generarcon IA tus audios para usarlas en tu IVR puedes usar el siguiente link ...
+
 => https://textoavoz.net/
+
 ... eso permite que tu escribas el texto que quieras y lo transforma en voz con el idioma de cualquier país.
 
 Cuando descargues el archivo verás que se guarda en formato .mp3, hasta donde sé debes guardarlo en formato .wav
+
 entonces este link te puede servir ...
+
 => https://cloudconvert.com/
+
 ... Los parámetros que yo uso son:
 
 Audio Codec: por defecto (pcm_s16le)
